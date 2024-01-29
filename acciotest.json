@@ -1,0 +1,4 @@
+{
+    "testRepo": "Binary-Search-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
